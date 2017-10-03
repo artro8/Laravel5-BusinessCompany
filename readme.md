@@ -40,3 +40,7 @@ Photos
 Home Page
 
 ![screenshot 2017-10-03 13-16-31](https://user-images.githubusercontent.com/17146309/31122776-7896cd72-a83d-11e7-9974-309d7ad0dab5.jpg)
+
+Create offers
+
+![screenshot 2017-10-03 13-18-25](https://user-images.githubusercontent.com/17146309/31122805-9568f858-a83d-11e7-89db-cd4c1a28a847.jpg)
