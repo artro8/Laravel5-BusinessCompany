@@ -44,3 +44,7 @@ Home Page
 Create offers
 
 ![screenshot 2017-10-03 13-18-25](https://user-images.githubusercontent.com/17146309/31122805-9568f858-a83d-11e7-89db-cd4c1a28a847.jpg)
+
+Offers in website
+
+![screenshot 2017-10-03 13-18-11](https://user-images.githubusercontent.com/17146309/31122849-c073ac0a-a83d-11e7-87fa-4cd29994cf6b.jpg)
